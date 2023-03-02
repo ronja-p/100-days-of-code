@@ -22,7 +22,7 @@
 
 ### Day 2: March 1, 2022
 
-**Today's Topic**: Responsive CSS
+**Today's Topic:** Responsive CSS
 
 - Streamed on Twitch
 - Completed freeCodeCamp lesson on responsive CSS
@@ -35,10 +35,25 @@
 **Links to work:**
 
 1. [freeCodeCamp Responsive CSS lessons](https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-tribute-page-project)
-2. [Kevin Powell's Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts))
+2. [Kevin Powell's Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 3. [Portfolio Project commit](https://github.com/ronja-p/portfolio/commit/0094c188ef8c624597ccb8579332fdf57326f9f9)
 
 <img src="./images/Slide%201.png" width="400"/>
 <img src="./images/Slide%202.png" width="400"/>
 <img src="./images/Slide%203.png" width="400"/>
 <img src="./images/Slide%204.png" width="400"/>
+
+### Day 3: March 2, 2023
+
+**Today's Topics:** em & rem, next.js
+
+- Completed Day 2 of Conquering Responsive Layouts, learned about the differences between em and rem units in CSS, and why you should avoid using ems for font-sizes.
+- Read a blog post about getting started with Next.js.
+- Created my own Next app, followed a crash course, learned about pages, and started styling a navbar using modular css.
+
+**Thoughts:** It was difficult to find a direction for the day, but once I got started with Next and realised how easy it was to get started it motivated me to keep going.
+
+**Links to work:**
+
+1. [Get Started With Next.js](https://dev.to/kadeesterline/get-started-with-nextjs-4c88)
+2. [NextJS Course For Beginners - Routes, Fetching, SSR, SSG...](https://www.youtube.com/watch?v=tsmaQdgidKg)
