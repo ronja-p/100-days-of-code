@@ -38,7 +38,7 @@
 2. [Kevin Powell's Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts))
 3. [Portfolio Project commit](https://github.com/ronja-p/portfolio/commit/0094c188ef8c624597ccb8579332fdf57326f9f9)
 
-![Slide 1](./images/Slide%201.png)
-![Slide 2](./images/Slide%202.png)
-![Slide 3](./images/Slide%203.png)
-![Slide 4](./images/Slide%204.png)
+![Slide 1](./images/Slide%201.png | width=200)
+![Slide 2](./images/Slide%202.png | width=200)
+![Slide 3](./images/Slide%203.png | width=200)
+![Slide 4](./images/Slide%204.png | width=200)
