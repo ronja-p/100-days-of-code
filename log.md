@@ -57,3 +57,19 @@
 
 1. [Get Started With Next.js](https://dev.to/kadeesterline/get-started-with-nextjs-4c88)
 2. [NextJS Course For Beginners - Routes, Fetching, SSR, SSG...](https://www.youtube.com/watch?v=tsmaQdgidKg)
+
+### Day 4: March 3, 2023
+
+**Today's Topics:** next.js redirects, custom 404s, and layout
+
+- Added custom 404 page to my next project which redirects to the home page.
+- Explored built in redirects in next, opted for a useEffect on my 404 page instead.
+- Created a layout with my navbar and wrapped my app in this layout.
+- Tidied up Head component, explored difference between _app and _document.
+
+**Thoughts:** I was confused about which type of redirect best suited my needs. Most examples of custpm 404s didn't redirect automatically, and the ones that did weren't the cleanest looking solutions. In the end I'm still loading an empty 404 page before redirecting back to home, whcih feels like it could be optimised further. Layouts seem fun, I'm looking forward to developing mine further.
+
+**Links to work:**
+
+1. [Next.js Portfolio commit](https://github.com/ronja-p/next-portfolio/commit/4a81a57081427eb92bf7700fbcf3ecd2b55c0637)
+2. [Next.js Layouts](https://nextjs.org/docs/basic-features/layouts)
