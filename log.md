@@ -73,3 +73,16 @@
 
 1. [Next.js Portfolio commit](https://github.com/ronja-p/next-portfolio/commit/4a81a57081427eb92bf7700fbcf3ecd2b55c0637)
 2. [Next.js Layouts](https://nextjs.org/docs/basic-features/layouts)
+
+### Day 5: March 4th, 2023
+
+**Today's Topic:** vh and vw units in CSS
+
+- Watched Kevin Powell's video on viewport height and viewport width, as well as vmin and vmax.
+- Better understanding of when tp use these units, they should be avoided in typography but can be useful for titles.
+
+**Thoughts:** I now have a pretty comprehensive understanding of relative CSS units. I will need to practice using them to build up an intuition for choosing the most suitable ones. I didn't have the most time for practical work over the weekend, I'd like to apply more of this knowledge in the upcoming week.
+
+**Links to work:**
+
+1. [vh and vw video](https://www.youtube.com/watch?v=IWFqGsXxJ1E)
