@@ -18,7 +18,7 @@
 2. [Typewriter Animation Tutorial](https://youtu.be/w1nhwUGsG6M)
 3. [Portfolio Project commit](https://github.com/ronja-p/portfolio/commit/0094c188ef8c624597ccb8579332fdf57326f9f9)
 
-![Typewriter Animation](./images/typewriter-animation.gif)
+![Typewriter Animation](./images/day-1/typewriter-animation.gif)
 
 ### Day 2: March 1, 2022
 
@@ -38,10 +38,10 @@
 2. [Kevin Powell's Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 3. [Portfolio Project commit](https://github.com/ronja-p/portfolio/commit/0094c188ef8c624597ccb8579332fdf57326f9f9)
 
-<img src="./images/Slide%201.png" width="400"/>
-<img src="./images/Slide%202.png" width="400"/>
-<img src="./images/Slide%203.png" width="400"/>
-<img src="./images/Slide%204.png" width="400"/>
+<img src="./images/day-2/Slide%201.png" width="400"/>
+<img src="./images/day-2/Slide%202.png" width="400"/>
+<img src="./images/day-2/Slide%203.png" width="400"/>
+<img src="./images/day-2/Slide%204.png" width="400"/>
 
 ### Day 3: March 2, 2023
 
@@ -73,6 +73,9 @@
 
 1. [Next.js Portfolio commit](https://github.com/ronja-p/next-portfolio/commit/4a81a57081427eb92bf7700fbcf3ecd2b55c0637)
 2. [Next.js Layouts](https://nextjs.org/docs/basic-features/layouts)
+
+<img src="./images/day-4/Slide%201.png" width="400"/>
+<img src="./images/day-4/Slide%202.png" width="400"/>
 
 ### Day 5: March 4th, 2023
 
